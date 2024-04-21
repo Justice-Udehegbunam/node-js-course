@@ -1,0 +1,1 @@
+here is the result of the read files hello this is my first text file., hello this is my second text file.
